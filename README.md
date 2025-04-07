@@ -1,4 +1,3 @@
-# 💫 About Me:
 I am a computer science major who loves to code
 
 
